@@ -1,4 +1,4 @@
-HI i'm Alse :)
+<title>HI i'm Alse :)</title>
 
 
 <img src="https://media.bitdegree.org/storage/media/images/2018/08/what-is-a-web-developer.jpg" width="400" hight = "400"/>
